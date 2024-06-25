@@ -1,7 +1,11 @@
 <h1>Greetings, fellas!👋</h1>
 <h2>I'm Salmah Asmin, a Software Engineer 👩🏻‍💻</h2>
 
-<img align="right" src="https://camo.githubusercontent.com/4c46d9447006a5b5821454661c35b0b4c580b1e1a9aae6292adb74305b44d35f/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f706972617465706172726f742e676966" width = 50px/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width = 50px/>
+
+<br>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width = 50px/>
 
 <br>
 
