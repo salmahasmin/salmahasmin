@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,py,r,php,html,js,css,mysql,mongodb,laravel,flask" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,c,r,php,html,js,css,mysql,mongodb,laravel,flask" />
   </a>
 </p>
 
