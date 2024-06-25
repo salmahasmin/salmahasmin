@@ -1,5 +1,5 @@
-<h1 align="center">Greetings, fellas👋</h1>
-<h2 align="center">I'm Salmah Asmin</h2>
+<h1>Greetings, fellas!👋</h1>
+<h2>I'm Salmah Asmin</h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
