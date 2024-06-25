@@ -9,7 +9,7 @@
 
 - 📫 How to reach me:
 
-<p align="center">
+<p align="right">
 <a href="mailto:salmahtheswe@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a> </a>
     <a href="https://www.linkedin.com/in/salmah-asmin/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
