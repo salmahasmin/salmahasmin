@@ -1,12 +1,12 @@
 <h1>Greetings, fellas!👋</h1>
-##I'm **Salmah Asmin**, a Software Engineer
+<h2>I'm Salmah Asmin, a Software Engineer 👩🏻‍💻</h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 <br>
 <br>
 
-- 👩🏻‍💻 A results-oriented software engineer specializing in designing, maintaining, and testing systems. Aiming to pursue careers in the IT field to increase knowledge, experience and skill sets. Has a passion for art and enjoy digital drawing and graphic designing in free time.
+- 🖥️ A results-oriented software engineer specializing in designing, maintaining, and testing systems. Aiming to pursue careers in the IT field to increase knowledge, experience and skill sets. Has a passion for art and enjoy digital drawing and graphic designing in free time.
 
 - 📫 How to reach me:
 
