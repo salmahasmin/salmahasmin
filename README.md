@@ -1,4 +1,5 @@
 <h1>Greetings, fellas!👋</h1>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <h2>I'm Salmah Asmin, a Software Engineer 👩🏻‍💻</h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width = 50px/>
