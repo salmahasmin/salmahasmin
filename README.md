@@ -5,7 +5,7 @@
 
 <br>
 
-- 🖥️ A results-oriented software engineer specializing in designing, maintaining, and testing systems. Aiming to pursue careers in the IT field to increase knowledge, experience and skill sets. Has a passion for art and enjoy digital drawing and graphic designing in free time.
+- 🖥️ A results-driven software engineer specializing in system design, maintenance, and testing. Aspires to advance in the IT field to expand knowledge, experience, and skill sets. Passionate about art, enjoys digital drawing, and graphic design during free time.
 
 - 📫 How to reach me:
 
