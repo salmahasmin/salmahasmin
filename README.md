@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,anaconda,postman,flutter,selenium,robloxstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,anaconda,postman,flutter,ps,ai,pr,selenium,robloxstudio" />
   </a>
 </p>
 
