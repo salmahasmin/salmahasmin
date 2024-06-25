@@ -25,6 +25,22 @@
 
 <br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,py,r,php,html,js,css,mysql,mongodb,laravel,flask" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,anaconda,postman,flutter,selenium,robloxstudio" />
+  </a>
+</p>
+
+<br>
+
 <!--
 **salmahasmin/salmahasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
